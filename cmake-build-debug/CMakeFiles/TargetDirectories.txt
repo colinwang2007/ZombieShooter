@@ -1,0 +1,3 @@
+/Users/colinwang/CLionProjects/ZombieShooter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/colinwang/CLionProjects/ZombieShooter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/colinwang/CLionProjects/ZombieShooter/cmake-build-debug/CMakeFiles/HelloSFML.dir

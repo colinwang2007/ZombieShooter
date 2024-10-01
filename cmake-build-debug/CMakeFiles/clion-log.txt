@@ -1,0 +1,5 @@
+/Users/colinwang/Desktop/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/colinwang/CLionProjects/ZombieShooter
+-- Found SFML 2.5.1 in /usr/local/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/colinwang/CLionProjects/ZombieShooter/cmake-build-debug
